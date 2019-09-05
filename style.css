@@ -1,3 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	color: aqua;
+	background-color: fuchsia;
+}
+
 div {
     width: 300px;
     height:300px;
