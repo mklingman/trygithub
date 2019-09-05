@@ -1,3 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	color: aqua;
+	background-color: fuchsia;
+}
+
 div {
 	border-radius: 50%;
 	border-color: aqua;
